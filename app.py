@@ -13,9 +13,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-st.title("News Research Tool 📰") 
+st.title("Article Analyzer 📰") 
 
-st.sidebar.title("News Article URLs")
+st.sidebar.title("Article URLs")
 
 # Collect URLs from sidebar inputs
 urls = [url for i in range(3) if (url := st.sidebar.text_input(f"URL {i+1}"))]
