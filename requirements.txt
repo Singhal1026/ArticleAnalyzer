@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+streamlit
+unstructured
+tiktoken
+faiss-cpu
+libmagic
+python-magic
+python-magic-bin
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+langchain-openai
+psutil==5.9.3
+sentence-transformers
