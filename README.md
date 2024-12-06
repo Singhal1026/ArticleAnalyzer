@@ -42,6 +42,11 @@ This **Article Analyzer** is a powerful application that allows users to input U
     pip install -r requirements.txt
     ```
 
+3. **Run Application**:
+    ```bash
+    streamlit run app.py
+    ```
+
 ## Access the Application
 
-You can access the deployed application at the following [URL](https://rasturant-name-generator-2.onrender.com/):
+You can access the deployed application at the following [URL](https://huggingface.co/spaces/yash1026/Article-Analyzer):
